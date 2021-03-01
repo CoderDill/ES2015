@@ -1,0 +1,8 @@
+const pi = 3.14;
+const myCat = piper;
+
+let has block scope and cannot be redeclared, whereas Var has function scope and can be redeclared.
+const has block scope and can neither be redeclared or reassigned, whereas Var has function scope and can be both reassigned and redeclared.
+The only difference between let and const is that let can be reassigned.
+
+Hoisting refers to variables declared with the var keyword, being ran first, before any other code, then being declared later in the code.
